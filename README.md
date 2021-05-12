@@ -3,7 +3,7 @@
 
 ## 📝 [Support Server](https://discord.gg/XjeK84b)
 
-Got any error or any problem with the code? Join this server and ask your question instead of creating issues unless its a code bug. https://discord.gg/a9SHDpD
+Got any error or any problem with the code? Join this server and ask your question instead of creating issues unless its a code bug. https://discord.gg/XjeK84b
 
 ## 📸 Screenshots
 
