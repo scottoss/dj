@@ -16,11 +16,11 @@ module.exports = {
   Website: process.env.Website || "http://localhost", //Website where it was hosted at includes http or https || Use "0.0.0.0" if you using Heroku
 
   //Lavalink - Already there is a serer to connect :)
-  Lavalink: {
+Lavalink: {
     id: "Main",
-    host: "lavalink.sudhanplayz.live",
-    port: 1234,
-    pass: "CodingWithSudhan",
+    host: "lavalink.cgofficial.org",
+    port: 2333,
+    pass: "youshallnotpass",
   },
 
   //Please go to https://developer.spotify.com/dashboard/
