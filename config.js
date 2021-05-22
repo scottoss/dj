@@ -18,7 +18,7 @@ module.exports = {
   //Lavalink - Already there is a serer to connect :)
 Lavalink: {
     id: "Main",
-    host: "lavalink.cgofficial.org",
+    host: "play.paneldatkan.ga",
     port: 2333,
     pass: "youshallnotpass",
   },
