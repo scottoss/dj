@@ -1,5 +1,5 @@
 module.exports = {
-  Admins: ["UserID", "UserID"], //Admins of the bot
+  Admins: ["613030812501278740", "UserID"], //Admins of the bot
   DefaultPrefix: process.env.Prefix || ">", //Default prefix, Server Admins can change the prefix
   Port: 3000, //Which port website gonna be hosted
   SupportServer: "https://discord.gg/XjeK84b", //Support Server Link
@@ -18,7 +18,7 @@ module.exports = {
   //Lavalink - Already there is a serer to connect :)
 Lavalink: {
     id: "Main",
-    host: "play.paneldatkan.ga",
+    host: "192.168.178.73",
     port: 2333,
     pass: "youshallnotpass",
   },
